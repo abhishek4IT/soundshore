@@ -1,0 +1,6 @@
+2019-05-13T12:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\up-wp\wp-includes\wp-db.php on line 2007
+
+2019-05-13T12:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\up-wp\wp-admin\includes\image.php on line 571
+
+2019-05-13T13:00:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\up-wp\wp-includes\class-wp-image-editor-gd.php on line 189
+
